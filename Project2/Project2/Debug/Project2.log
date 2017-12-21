@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(701): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(702): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(703): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(724): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(726): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(729): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\mat.h(746): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\main.cpp(55): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\main.cpp(193): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\main.cpp(196): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\main.cpp(199): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project2\project2\main.cpp(202): warning C4305: '+=': truncation from 'double' to 'float'
+  Project2.vcxproj -> C:\Users\rcb8643\documents\visual studio 2017\Projects\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\rcb8643\documents\visual studio 2017\Projects\Project2\Debug\Project2.pdb (Partial PDB)

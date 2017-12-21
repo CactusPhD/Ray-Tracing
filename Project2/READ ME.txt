@@ -1,0 +1,11 @@
+Ryan Baird
+
+Project Properties > VC++ Directories > Include Directories
+Project Properties > VC++ Directories > Library Directories
+Modify these so they point to the location of the OpenGL Files on your computer
+
+pressing wasd will move the camera in the xz plane
+pressing the arrow keys will rotate the model around the x or y axis
+	the forward direction does not get rotated so its a bit weird to handle
+
+the point light misses the top of the orange sphere, but it's hard to tell.
